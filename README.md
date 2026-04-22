@@ -1,20 +1,18 @@
-<h1 align="center">Hola, Soy Joshua Orellana</h1>
-<h3 align="center">INGENIERO DE SISTEMAS | SENIOR ORACLE SUITES (6I – 12C) & PL/SQL DEVELOPER</h3>
+# 💫 About Me:
+Desarrollador Oracle PL/SQL Senior con más de 10 años de experiencia en desarrollo, soporte e implementación de <br>soluciones para sectores como Seguros, Retail y Educación. <br>Especializado en PL/SQL, SQL, optimización de consultas (SQL tuning) y construcción de objetos <br>de base de datos (packages, procedures, functions, triggers, vistas e índices).  Experto con Oracle Developer Suite (Forms/Reports 6i-12c) y en la mejora de rerndimiento de base de datos mediante funciones analíticas. Participación liderando procesos de levantamiento de requerimientos y migración <br>de sistemas a arquitecturas modernas.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshgorellana&label=Profile%20views&color=0e75b6&style=flat" alt="joshgorellana" /> </p>
 
-- 🌱Actualmente estoy estudiando: **MAESTRÍA EN INTELIGENCIA DE NEGOCIO Y BIG DATA ANALYTICS**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuagorellana) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Joshua Orellana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuagorellana@gmail.com) 
 
-- 📫 How to reach me **joshuagorellana@gmail.com**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username= joshgorellana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user= joshgorellana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username= joshgorellana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- ⚡ Fun fact **Apasionado por el tennis**
+---
+[![](https://komarev.com/ghpvc/?username= joshgorellana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joshuagorellana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshuagorellana" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshgorellana&show_icons=true&locale=en" alt="joshgorellana" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
