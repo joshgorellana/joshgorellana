@@ -2,7 +2,7 @@
 Desarrollador Oracle PL/SQL Senior con más de 10 años de experiencia en desarrollo, <br>soporte e implementación de soluciones para sectores como Seguros, Retail y Educación. <br>Especializado en PL/SQL, SQL, optimización de consultas (SQL tuning) y construcción de objetos <br>de base de datos (packages, procedures, functions, triggers, vistas e índices).  <br>Experto con Oracle Developer Suite (Forms/Reports 6i-12c) y en la mejora de rendimiento de base de datos <br>mediante funciones analíticas. Participación liderando procesos de levantamiento de requerimientos y <br>migración de sistemas a arquitecturas modernas.
 
 
-## 🌐 Redes Sociales:
+## 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joshuagorellana/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuagorellana@gmail.com) 
 
 # 💻 Lenguajes y Herramientas Utilizadas:
