@@ -1,6 +1,6 @@
 # Hi there, I'm Joshua Orellana 👋
 
-### 🛠️ Senior Oracle Database & PL/SQL Specialist | Forms & Reports (6i - 10g)
+### 🛠️ Senior Oracle Database & PL/SQL Specialist | Forms & Reports (6i - 12c)
 
 Especialista en desarrollo, tuning y arquitectura de bases de datos Oracle con amplia experiencia en aplicaciones empresariales críticas basadas en **Oracle Forms & Reports (versiones 6i, 9i y 10g)**, arquitectura PL/SQL de alto rendimiento y modernización de sistemas heredados.
 
