@@ -1,72 +1,157 @@
 # Hi there, I'm Joshua Orellana 👋
 
-### 🛠️ Senior Oracle Database & PL/SQL Specialist | Forms & Reports (6i - 12c)
+### 🛠️ Senior Oracle Developer | PL/SQL & Oracle Forms & Reports (6i - 12c)
 
-Especialista en desarrollo, tuning y arquitectura de bases de datos Oracle con amplia experiencia en aplicaciones empresariales críticas basadas en **Oracle Forms & Reports (versiones 6i, 9i y 10g)**, arquitectura PL/SQL de alto rendimiento y modernización de sistemas heredados.
-
----
-
-### 🚀 Sobre mí
-
-- 💼 **Especialidad:** Desarrollo backend en bases de datos Oracle, paquetes PL/SQL complejos, triggers, procedimientos almacenados y optimización (SQL Tuning).
-- 🖼️ **Oracle Forms & Reports:** Diseño, mantenimiento y migración de sistemas transaccionales legacy y cliente-servidor (6i / 9i / 10g).
-- 🔄 **Modernización:** Experiencia integrando y migrando lógica de negocio legacy hacia arquitecturas modernas (Oracle APEX, Web Services / REST APIs, ETLs).
-- 📊 **Análisis de Datos & BI:** Modelado relacional, analítica de datos y rendimiento de consultas a gran escala.
-
----
-
-### 💻 Stack Tecnológico
-
-#### **Base de Datos & Lenguajes**
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### **Herramientas Oracle & Desarrollo**
-- **Forms & Reports:** Oracle Forms 6i / 9i / 10g | Oracle Reports 6i / 9i / 10g
-- **IDES & Herramientas:** PL/SQL Developer, TOAD, SQL Developer, Oracle APEX
-- **Versionado & Utilidades:** Git, GitHub, SQL*Loader, Data Pump, Enterprise Manager
-
----
-
-### 🛠️ Ámbitos de Especialización
-
-| Área | Descripción |
-| :--- | :--- |
-| **Desarrollo PL/SQL Avanzado** | Creación de Packages, Triggers, Pipelines, Jobs y manejo eficiente de ref cursors y colecciones. |
-| **Oracle Forms (6i - 10g)** | Mantenimiento de Canvas, Blocks, Triggers de formulario/bloque/ítem y migraciones C/S a Web. |
-| **Oracle Reports (6i - 10g)** | Reportes matriciales, complejos, conversión a PDF/Excel y automatización vía Run_Report_Object. |
-| **SQL Tuning & Optimización** | Planes de ejecución (EXPLAIN PLAN), pistas (hints), indexación estratégica y trazas TKPROF. |
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshgorellana&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshgorellana&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="48%" />
+<p align="left">
+  <a href="#-versión-en-español"><b>🇪🇸 Versión en Español</b></a> | 
+  <a href="#-english-version"><b>🇬🇧 English Version</b></a>
 </p>
 
 ---
 
-### 📫 Conéctate conmigo
+<a name="-versión-en-español"></a>
+## 🇪🇸 Versión en Español
 
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com)
-- 📧 **Email:** joshua.orellana@ejemplo.com
-- 🌐 **Ubicación:** Caracas, Venezuela
-![Static Badge](https://img.shields.io/badge/Oracle%20Apex-Red?style=for-the-badge&logo=!%5BOracle%5D(https%3A%2F%2Fshields.io)&logoColor=hex&color=red)
-![Static Badge](https://img.shields.io/badge/PL%2FSQL%20Developer-Blue?style=for-the-badge&logo=!%5BOracle%5D(https%3A%2F%2Fshields.io)&logoColor=hex&color=Blue)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+Desarrollador y especialista en ecosistemas Oracle con amplia trayectoria en el diseño, optimización y mantenimiento de aplicaciones críticas de negocio. Experto en **PL/SQL avanzado**, desarrollo sobre **Oracle Forms & Reports (6i a 12c)**, arquitectura de bases de datos y estrategias de modernización e integración de sistemas relacionales.
 
+### 🚀 Sobre Mí
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=joshgorellana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=joshgorellana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=joshgorellana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🛢️ **Especialización Core:** Arquitectura de datos, lógica de negocio en backend con PL/SQL, optimización de consultas complejas y tuning de alto rendimiento (AWR, TKPROF, Explain Plan).
+- 🖼️ **Sistemas Legacy Oracle:** Mantenimiento, soporte y migración en la suite Oracle Forms & Reports (entornos Client-Server y Web/Application Server WebLogic/OAS).
+- 🔄 **Evolución & Integración:** Puente estratégico entre sistemas heredados y arquitecturas modernas (Oracle APEX, APIs REST/JSON con ORDS, llamadas UTL_* y flujos ETL/ELT).
+- ⚙️ **Rendimiento & Escalabilidad:** Resolución de cuellos de botella en procesamiento masivo de datos, diseño e implementación de particionamiento, indexación avanzada y reestructuración de esquemas relacionales.
+
+### 🧰 Skill Set & Competencias Técnicas
+
+#### 🛢️ Core & Database Development
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-007396?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Conceptos Clave:** Packages, Triggers, Stored Procedures, Pipelines, Bulk Collect, Ref Cursors, Partitioning, Autonomous Transactions, Dynamic SQL, Fine-Grained Access Control.
+
+#### 🖼️ Oracle Developer Suite (Forms & Reports)
+![Oracle Forms](https://img.shields.io/badge/Oracle_Forms_6i_--_12c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Reports](https://img.shields.io/badge/Oracle_Reports_6i_--_12c-EA2D2E?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle OAS](https://img.shields.io/badge/WebLogic_/_OAS-000000?style=for-the-badge&logo=oracle&logoColor=white)
+
+- **Especialidades:** Canvases, Visual Attributes, Object Groups, Libraries (`.PLL`), Reports (`.RDF`/`.REP`), configuración de `formsweb.cfg` / `env`, integración Java Beans y WebUtil.
+
+#### ⚡ Performance & SQL Tuning
+![Optimization](https://img.shields.io/badge/EXPLAIN_PLAN-000000?style=for-the-badge&logo=speedtest&logoColor=white)
+![TKPROF](https://img.shields.io/badge/TKPROF_%2F_AWR-333333?style=for-the-badge&logo=analytics&logoColor=white)
+![Indexing](https://img.shields.io/badge/Indexing_%2F_Hints-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+- **Técnicas de Optimización:** Diagnóstico mediante AWR/ASH, trazado de sesiones con TKPROF, reescritura de consultas complejas, hints de optimizador y estrategia de índices (B-Tree, Bitmap, Function-Based).
+
+#### 🛠️ Herramientas de Desarrollo & IDEs
+![PL/SQL Developer](https://img.shields.io/badge/PL%2FSQL_Developer-0275d8?style=for-the-badge&logo=oracle&logoColor=white)
+![TOAD](https://img.shields.io/badge/TOAD_for_Oracle-FF6600?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-2D3748?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### 🔄 Modernización & Control de Versiones
+![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON_%2F_XML-000000?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📋 Cuadro de Dominios Técnicos
+
+| Dominio | Tecnologías / Herramientas | Nivel / Enfoque |
+| :--- | :--- | :--- |
+| **Backend Core** | PL/SQL, SQL, Oracle DB (10g–19c) | Expert / Arquitectura, Diseño de Packages y Lógica de Negocio |
+| **Forms & Reports** | Forms & Reports (6i, 9i, 10g, 11g, 12c) | Senior / Mantenimiento, Actualizaciones y Migración Web |
+| **Performance Tuning** | EXPLAIN PLAN, TKPROF, AWR, SQL Trace | Advanced / Refactorización de Consultas y Cuellos de Botella |
+| **Integración & APIs** | REST/JSON en PL/SQL, ORDS, UTL_HTTP | Intermediate / Middleware y Servicios Legacy-a-Moderno |
+| **Modern Oracle Web** | Oracle APEX, Interactive Grids | Intermediate / Desarrollo Web y Modernización de Portales |
+
+### 💼 Proyectos y Áreas de Impacto
+
+- 🏛️ **Modernización de Portales Corporativos:** Arquitectura y desarrollo de aplicaciones web sobre Oracle APEX integradas a núcleos transaccionales heredados.
+- ⚡ **Optimización de Procesos Lote (Batch):** Reducción de tiempos de ejecución en batch nocturnos de horas a minutos mediante técnicas de Bulk Collect, FORALL y paralelización.
+- 🔄 **Migración e Integración de Sistemas:** Conexión de plataformas legacy Forms/Reports con servicios web modernos utilizando JSON/REST nativo en PL/SQL.
 
 ---
-[![](https://komarev.com/ghpvc/?username=joshgorellana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a name="-english-version"></a>
+## 🇬🇧 English Version
+
+Oracle ecosystem developer and database specialist with extensive experience designing, optimizing, and maintaining mission-critical business applications. Expert in **advanced PL/SQL**, **Oracle Forms & Reports (6i to 12c)** development, database architecture, and relational system modernization/integration strategies.
+
+### 🚀 About Me
+
+- 🛢️ **Core Specialization:** Data architecture, backend business logic using PL/SQL, complex query optimization, and high-performance database tuning (AWR, TKPROF, Explain Plan).
+- 🖼️ **Legacy Oracle Systems:** Maintenance, upgrades, support, and migration across the Oracle Forms & Reports suite (Client-Server and Web/Application Server environments).
+- 🔄 **Evolution & Integration:** Strategic bridge connecting legacy core platforms with modern web architectures (Oracle APEX, REST/JSON APIs via ORDS, UTL_* packages, and ETL/ELT workflows).
+- ⚙️ **Performance & Scalability:** Eliminating bottlenecks in massive data processing, designing partitioned tables, advanced indexing strategies, and relational schema refactoring.
+
+### 🧰 Skill Set & Technical Competencies
+
+#### 🛢️ Core & Database Development
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-007396?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Key Concepts:** Packages, Triggers, Stored Procedures, Pipelines, Bulk Collect, Ref Cursors, Partitioning, Autonomous Transactions, Dynamic SQL, Fine-Grained Access Control.
+
+#### 🖼️ Oracle Developer Suite (Forms & Reports)
+![Oracle Forms](https://img.shields.io/badge/Oracle_Forms_6i_--_12c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Reports](https://img.shields.io/badge/Oracle_Reports_6i_--_12c-EA2D2E?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle OAS](https://img.shields.io/badge/WebLogic_/_OAS-000000?style=for-the-badge&logo=oracle&logoColor=white)
+
+- **Specialties:** Canvases, Visual Attributes, Object Groups, Libraries (`.PLL`), Reports (`.RDF`/`.REP`), `formsweb.cfg` / env configuration, Java Beans & WebUtil integration.
+
+#### ⚡ Performance & SQL Tuning
+![Optimization](https://img.shields.io/badge/EXPLAIN_PLAN-000000?style=for-the-badge&logo=speedtest&logoColor=white)
+![TKPROF](https://img.shields.io/badge/TKPROF_%2F_AWR-333333?style=for-the-badge&logo=analytics&logoColor=white)
+![Indexing](https://img.shields.io/badge/Indexing_%2F_Hints-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+- **Optimization Techniques:** AWR/ASH diagnostic analysis, session tracing with TKPROF, complex query refactoring, optimizer hints, and indexing strategies (B-Tree, Bitmap, Function-Based).
+
+#### 🛠️ Development Tools & IDEs
+![PL/SQL Developer](https://img.shields.io/badge/PL%2FSQL_Developer-0275d8?style=for-the-badge&logo=oracle&logoColor=white)
+![TOAD](https://img.shields.io/badge/TOAD_for_Oracle-FF6600?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-2D3748?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### 🔄 Modernization & Version Control
+![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON_%2F_XML-000000?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📋 Technical Expertise Matrix
+
+| Domain | Technologies / Tools | Level / Focus |
+| :--- | :--- | :--- |
+| **Backend Core** | PL/SQL, SQL, Oracle DB (10g–19c) | Expert / Architecture, Package Design & Business Logic |
+| **Forms & Reports** | Forms & Reports (6i, 9i, 10g, 11g, 12c) | Senior / Maintenance, Upgrades & Web Migration |
+| **Performance Tuning** | EXPLAIN PLAN, TKPROF, AWR, SQL Trace | Advanced / Query Refactoring, Bottleneck Resolution |
+| **Integration & APIs** | REST/JSON in PL/SQL, ORDS, UTL_HTTP | Intermediate / Legacy-to-Modern Middleware & Services |
+| **Modern Oracle Web** | Oracle APEX, Interactive Grids | Intermediate / Web Application Dev & Portal Modernization |
+
+### 💼 Projects & Key Focus Areas
+
+- 🏛️ **Enterprise Portal Modernization:** Architecture and development of modern Oracle APEX web applications fully integrated with legacy transactional engines.
+- ⚡ **Batch Process Optimization:** Reduced overnight processing execution times from hours to minutes using Bulk Collect, FORALL, and parallel processing techniques.
+- 🔄 **System Integration & Middleware:** Bridged legacy Forms/Reports platforms with modern RESTful web services utilizing native PL/SQL JSON handling.
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshgorellana&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshgorellana&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Conéctate conmigo / Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/joshgorellana](https://linkedin.com)
+- 📧 **Email:** joshua.orellana@ejemplo.com
+- 🌐 **Ubicación / Location:** Caracas, Venezuela
